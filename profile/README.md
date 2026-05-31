@@ -1,8 +1,8 @@
-# Kullhem.io
+# Kullhem Labs
 
 **Useful systems from the edge of chaos.**
 
-Kullhem.io is an independent engineering space for practical software, automation, infrastructure, hardware-adjacent tools, and experimental interfaces.
+Kullhem Labs is an independent engineering lab at **kullhem.io** for practical software, automation, infrastructure, hardware-adjacent tools, and experimental interfaces.
 
 This org is where rough ideas become working systems: dashboards, bots, integrations, edge services, utilities, diagnostics, and prototypes that start as hacks but are built with real engineering discipline.
 
