@@ -1,8 +1,6 @@
 <p align="center">
-  <img src="./kullhem-labs-logo.png" alt="Kullhem Labs logo" width="260">
+  <img src="./kullhem-labs-logo.png" alt="Kullhem Labs logo" width="100%">
 </p>
-
-# Kullhem Labs
 
 **Useful systems from the edge of chaos.**
 
